@@ -1,0 +1,6 @@
+requests
+requests_cache
+pytest
+sqlalchemy
+openmeteo_requests
+retry_requests
